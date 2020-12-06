@@ -1,0 +1,96 @@
+body {
+   background-color: #f5e3cd;
+   
+}
+
+h1.titulo {
+    color: #650205;
+    text-align: center;
+}
+
+p.carta {
+    text-align: left;
+    color: #894135;
+}
+img.img_carta {
+    width: 100px;
+    height: 100px;
+}
+
+.cafe {
+    text-align: center;
+    color: #894135;
+    text-decoration: none;
+}
+
+img.img_cafe {
+    width: 100px;
+    height: 100px;
+}
+
+p.contacto{
+    text-align: right;
+    color: #894135;
+}
+
+img.img_contacto {
+    width: 100px;
+    height: 100px;
+}
+
+
+
+h1.lacarta {
+    color: #650205;
+    text-align: center;
+}
+p.panier {
+    color: #894135;
+}
+p.tartines {
+    color: #894135;
+}
+p.napo {
+    color: #894135;
+}
+p.croissant {
+    color: #894135;
+}
+
+
+
+h1.elcafe {
+    color: #650205;
+    text-align: center;
+}
+p.romain {
+    color: #9c210b;
+    font-weight: bold;
+}
+p.planta {
+    color: #9c210b;
+    font-weight: bold;
+}
+
+
+h1.elcontacto {
+    color: #650205;
+    text-align: center;
+}
+p.contacto1 {
+    background-color: #894135
+}
+p.telefono {
+    color: #9c210b;
+}
+img.img_telefono {
+    width: 25px;
+    height: 25px;
+}
+p.gmail {
+    color: #9c210b;
+}
+img.img_gmail {
+    width: 25px;
+    height: 25px;
+}
